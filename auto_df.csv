@@ -1,0 +1,1002 @@
+,Project,Month Year,Minutes Saved,Business Case,Total Time Saved (hrs),Tracking Cadence,Tracking Cadence-1,Event Count,Effort,Manual Time (mins),Dev Cost (mins)
+0,sn_tableau_ldap,6/1/2022,0.0,,,,,1208.0,sn_tableau_ldap,7.0,0
+1,DBA - Redshift Account Deployment,1/1/2022,0.0,,,,,120.0,DBA - Redshift Account Deployment,7.5,0
+2,Mail Alias,1/1/2022,0.0,,,,,127.0,Mail Alias,8.0,
+3,ggroupMembership,1/1/2022,0.0,,,,,9.0,ggroupmembership,0.0,
+4,ggroupMembership,6/1/2022,0.0,,,,,56.0,ggroupmembership,0.0,
+5,Rehire Associate Check,6/1/2022,0.0,,,,,13.0,Rehire Associate Check,12.0,1440
+6,Tableau LDAP,2/1/2022,0.0,,,,,1014.0,Tableau LDAP,8.0,0
+7,LDAP POSIX Group,2/1/2022,0.0,,,,,246.0,LDAP POSIX Group,12.0,
+8,FIGS Plus Departed User Email Forwarding,6/1/2022,0.0,,,,,170.0,,0.0,
+10,ggroupMembership,2/1/2022,0.0,,,,,13.0,ggroupmembership,0.0,
+11,Google Team Drive,1/1/2022,0.0,,,,,49.0,Google Team Drive,15.0,0
+12,Mail Alias,7/1/2022,0.0,,,,,62.0,Mail Alias,8.0,
+13,Rehire Associate Check,2/1/2022,0.0,,,,,13.0,Rehire Associate Check,12.0,1440
+14,Rehire Associate Check,1/1/2022,0.0,,,,,19.0,Rehire Associate Check,12.0,1440
+15,Windows AD Account Mgmt,6/1/2022,0.0,,,,,83.0,Windows AD Account Mgmt,0.0,0
+16,Rally AM,7/1/2022,0.0,,,,,832.0,Rally AM,0.0,
+17,DBA - Redshift Account Deployment,7/1/2022,0.0,,,,,140.0,DBA - Redshift Account Deployment,7.5,0
+18,LDAP POSIX Group,6/1/2022,0.0,,,,,170.0,LDAP POSIX Group,12.0,
+19,IT Hire Check,1/1/2022,0.0,,,,,88.0,IT Hire Check,5.0,0
+20,Google Alias,1/1/2022,0.0,,,,,535.0,,0.0,
+21,Alias Delete,2/1/2022,0.0,,,,,141.0,,0.0,
+22,Google Alias,6/1/2022,0.0,,,,,54.0,,0.0,
+23,RHAM Alias Term,1/1/2022,0.0,,,,,368.0,RHAM Alias Term,4.0,0
+24,Google Alias,2/1/2022,0.0,,,,,541.0,,0.0,
+25,Mailing Lists,2/1/2022,0.0,,,,,541.0,Mailing Lists,20.0,
+26,Tableau API Token Refresher,7/1/2022,0.0,,,,,31.0,Tableau API Token Refresher,7.0,3240
+27,ALGE,2/1/2022,0.0,,,,,1.0,ALGE,30.0,
+28,Mail Alias,6/1/2022,0.0,,,,,88.0,Mail Alias,8.0,
+29,Google Team Drive,6/1/2022,0.0,,,,,34.0,Google Team Drive,15.0,0
+30,FIGS Plus Departed User Email Forwarding,7/1/2022,0.0,,,,,191.0,,0.0,
+31,Mailing Lists,1/1/2022,0.0,,,,,423.0,Mailing Lists,20.0,
+32,Alias Delete,1/1/2022,0.0,,,,,148.0,,0.0,
+33,LDAP POSIX Group,7/1/2022,0.0,,,,,152.0,LDAP POSIX Group,12.0,
+34,Tableau API Token Refresher,6/1/2022,0.0,,,,,29.0,Tableau API Token Refresher,7.0,3240
+35,SmartSheet,7/1/2022,0.0,,,,,63.0,smartsheet,5.0,
+36,Windows AD Account Mgmt,7/1/2022,0.0,,,,,56.0,Windows AD Account Mgmt,0.0,0
+37,IT Manager Check,1/1/2022,0.0,,,,,1.0,IT Manager Check,5.0,0
+39,DBA - Redshift Account Deployment,2/1/2022,0.0,,,,,97.0,DBA - Redshift Account Deployment,7.5,0
+40,Google Team Drive,7/1/2022,0.0,,,,,30.0,Google Team Drive,15.0,0
+41,Tableau LDAP,1/1/2022,0.0,,,,,803.0,Tableau LDAP,8.0,0
+42,Tableau API Token Refresher,2/1/2022,0.0,,,,,21.0,Tableau API Token Refresher,7.0,3240
+43,Mailing Lists,7/1/2022,0.0,,,,,103.0,Mailing Lists,20.0,
+44,LucidChart,6/1/2022,0.0,,,,,110.0,LucidChart,6.0,
+45,Google Alias,7/1/2022,0.0,,,,,53.0,,0.0,
+46,ALGE,1/1/2022,0.0,,,,,1.0,ALGE,30.0,
+47,sn_tableau_ldap,7/1/2022,0.0,,,,,654.0,sn_tableau_ldap,7.0,0
+48,Rehire Associate Check,7/1/2022,0.0,,,,,16.0,Rehire Associate Check,12.0,1440
+49,PagerDuty User Management,7/1/2022,0.0,,,,,12.0,PagerDuty User Management,8.0,
+50,LDAP POSIX Group,1/1/2022,0.0,,,,,251.0,LDAP POSIX Group,12.0,
+51,IT Hire Check,7/1/2022,0.0,,,,,45.0,IT Hire Check,5.0,0
+52,Mailing Lists,6/1/2022,0.0,,,,,278.0,Mailing Lists,20.0,
+53,LucidChart,7/1/2022,0.0,,,,,96.0,LucidChart,6.0,
+54,Google Team Drive,2/1/2022,0.0,,,,,42.0,Google Team Drive,15.0,0
+55,Tableau API Token Refresher,1/1/2022,0.0,,,,,31.0,Tableau API Token Refresher,7.0,3240
+56,GSS Salesforce Account Create,1/1/2022,0.0,,,,,7.0,GSS Salesforce Account Create,25.0,0
+57,Mail Alias,2/1/2022,0.0,,,,,88.0,Mail Alias,8.0,
+58,PagerDuty User Management,6/1/2022,0.0,,,,,19.0,PagerDuty User Management,8.0,
+59,PagerDuty User Management,2/1/2022,0.0,,,,,17.0,PagerDuty User Management,8.0,
+60,Tableau LDAP,6/1/2022,0.0,,,,,1256.0,Tableau LDAP,8.0,0
+61,IT Hire Check,6/1/2022,0.0,,,,,85.0,IT Hire Check,5.0,0
+62,SmartSheet,6/1/2022,0.0,,,,,63.0,smartsheet,5.0,
+63,RHAM Alias Term,7/1/2022,0.0,,,,,311.0,RHAM Alias Term,4.0,0
+64,RHAM Alias Term,2/1/2022,0.0,,,,,311.0,RHAM Alias Term,4.0,0
+65,ggroupMembership,7/1/2022,0.0,,,,,83.0,ggroupmembership,0.0,
+66,Tableau LDAP,7/1/2022,0.0,,,,,679.0,Tableau LDAP,8.0,0
+67,Humanity Schedule Bot,1/1/2020,17.5,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,7.0,Humanity Schedule Bot,2.5,1440
+68,Mail Alias,5/1/2020,1024.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,128.0,Mail Alias,8.0,
+69,Rehire Associate Check,4/1/2021,96.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,8.0,Rehire Associate Check,12.0,1440
+70,MPaaS+ General Support Request,5/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+71,RingCentral User Deployment,2/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+72,global_wifi,6/1/2020,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+73,ggroupMembership,12/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+74,sn_tableau_ldap,8/1/2021,5677.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,811.0,sn_tableau_ldap,7.0,0
+75,Email Alias Termination,1/1/2020,952.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+76,RingCentral User Deployment,11/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+77,Support Chat Notification Bot,2/1/2021,170.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,340.0,Support Chat Notification Bot,0.5,0
+78,IT Manager Check,4/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+79,global_wifi,12/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+80,LDAP POSIX Group,2/1/2020,3228.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,269.0,LDAP POSIX Group,12.0,
+81,sn_tableau_ldap,1/1/2021,4970.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,710.0,sn_tableau_ldap,7.0,0
+82,MPaaS+ Migration Support,7/1/2021,8.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+83,GSS Salesforce Account Create,10/1/2020,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+84,Google Calendar Creation,1/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+85,Bulk Email Alias Deletions,9/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+86,Support Chat Notification Bot,9/1/2021,164.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,329.0,Support Chat Notification Bot,0.5,0
+87,ggroupMembership,7/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+88,DBA - Redshift Account Deployment,4/1/2021,675.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,90.0,DBA - Redshift Account Deployment,7.5,0
+89,LDAP lookup module,3/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+90,sn_tableau_ldap,5/1/2021,4123.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,589.0,sn_tableau_ldap,7.0,0
+91,Windows AD Account Mgmt,6/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+92,ggroupMembership,10/1/2021,336.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+93,LDAP lookup module,11/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+94,Humanity Schedule Bot,3/1/2020,20.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,8.0,Humanity Schedule Bot,2.5,1440
+95,GSS Salesforce Account Create,6/1/2020,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+96,RingCentral User Termination,1/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+97,RingCentral User Termination,5/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+98,Windows AD Account Mgmt,9/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+99,LDAP POSIX Group,10/1/2021,5220.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,435.0,LDAP POSIX Group,12.0,
+100,RHEL 8 Deployment,4/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+101,ALGE,8/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+102,MPaaS+ General Support Request,4/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+103,LDAP POSIX Group,5/1/2020,4500.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,375.0,LDAP POSIX Group,12.0,
+104,Pushmail Ticket Deflection,7/1/2021,98.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,14.0,Pushmail Ticket Deflection,7.0,0
+105,Rehire Associate Check,5/1/2021,336.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,28.0,Rehire Associate Check,12.0,1440
+106,ALGE,9/1/2021,60.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,2.0,ALGE,30.0,
+107,Google Alias,8/1/2021,532.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+108,ggroupMembership,1/1/2021,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+109,NHO Prep Tasks,10/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+110,Tableau ServiceGroups,12/1/2020,232.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,29.0,Tableau ServiceGroups,8.0,0
+111,NGDC Service Catalog Item,1/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+112,NGDC Service Catalog Item,8/1/2021,100.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+113,LDAP POSIX Group,1/1/2021,2940.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,245.0,LDAP POSIX Group,12.0,
+114,Support Chat Notification Bot,12/1/2020,145.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,291.0,Support Chat Notification Bot,0.5,0
+115,global_wifi,1/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+116,MPaaS+ Migration Support,8/1/2021,72.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+117,Google Group Management,11/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+118,NGDC Service Catalog Item,10/1/2021,80.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+119,IT Hire Check,12/1/2021,240.0,Emails IT S&E content to new IT hires,64.5,,Daily,48.0,IT Hire Check,5.0,0
+120,ServiceNow Lookup module,10/1/2020,30.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+121,Bulk Email Alias Deletions,7/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+122,Bulk Email Alias Deletions,10/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+123,SFDC Account Terminations,12/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+124,Pushmail Ticket Deflection,5/1/2021,126.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,18.0,Pushmail Ticket Deflection,7.0,0
+125,Humanity Schedule Bot,10/1/2020,37.5,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,15.0,Humanity Schedule Bot,2.5,1440
+126,Windows AD Account Mgmt,4/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+127,ggroupMembership,3/1/2021,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+128,ggroupMembership,4/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+129,ggroupMembership,1/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+130,Email Alias Termination,4/1/2020,1656.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+131,Google Alias,1/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+132,Humanity Schedule Bot,5/1/2021,60.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,24.0,Humanity Schedule Bot,2.5,1440
+133,Mail Alias,7/1/2021,960.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,120.0,Mail Alias,8.0,
+134,Rehire Associate Check,11/1/2021,84.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,7.0,Rehire Associate Check,12.0,1440
+135,Pushmail Ticket Deflection,3/1/2020,140.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,20.0,Pushmail Ticket Deflection,7.0,0
+136,LDAP POSIX Group,8/1/2021,4620.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,385.0,LDAP POSIX Group,12.0,
+137,ServiceNow Lookup module,3/1/2020,132.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+138,Google Team Drive,11/1/2020,75.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,5.0,Google Team Drive,15.0,0
+139,RHEL 8 Deployment,5/1/2020,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+140,Google Calendar Creation,8/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+141,Mail Alias,9/1/2021,1216.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,152.0,Mail Alias,8.0,
+142,GWS' Weekly Email Reminders,3/1/2020,68.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+143,global_wifi,10/1/2020,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+144,Rehire Associate Check,7/1/2021,144.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,12.0,Rehire Associate Check,12.0,1440
+145,global_wifi,6/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+146,DBA - Redshift Account Deployment,12/1/2020,322.5,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,43.0,DBA - Redshift Account Deployment,7.5,0
+147,Tableau API Token Refresher,3/1/2021,35.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,5.0,Tableau API Token Refresher,7.0,3240
+148,Email Alias Termination,10/1/2020,924.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+149,RHEL 8 Deployment,3/1/2020,810.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+150,MPaaS+ Migration Support,12/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+151,Mailing Lists,12/1/2021,3480.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,174.0,Mailing Lists,20.0,
+152,NGDC Service Catalog Item,2/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+153,GWS' Weekly Email Reminders,9/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+154,Windows AD Account Mgmt,11/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+155,Google Alias,7/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+156,Tableau LDAP,7/1/2020,12760.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1595.0,Tableau LDAP,8.0,0
+157,RHEL 8 Deployment,7/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+158,Bulk Email Alias Deletions,3/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+159,Google Team Drive,10/1/2021,345.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,23.0,Google Team Drive,15.0,0
+160,ggroupMembership,8/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+161,global_wifi,9/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+162,LDAP lookup module,9/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+163,Bulk Email Alias Deletions,2/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+164,IT Hire Check,8/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+165,RingCentral User Termination,8/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+166,Rehire Associate Check,12/1/2020,120.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,10.0,Rehire Associate Check,12.0,1440
+167,Mailing Lists,7/1/2021,3400.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,170.0,Mailing Lists,20.0,
+168,LDAP Service Group,9/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+169,ServiceNow Lookup module,8/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+170,ggroupMembership,5/1/2021,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+171,global_wifi,4/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+172,LDAP-Rover Syncs,6/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+173,global_wifi,3/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+174,MPaaS+ Migration Support,10/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+175,ServiceNow Lookup module,2/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+176,LDAP lookup module,1/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+177,RingCentral User Deployment,11/1/2021,650.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,130.0,RingCentral User Deployment,5.0,6660
+178,IT Manager Check,2/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+179,global_wifi,9/1/2020,210.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,21.0,global_wifi,10.0,0
+180,Mail Alias,11/1/2021,1016.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,127.0,Mail Alias,8.0,
+181,Google Team Drive,6/1/2020,390.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,26.0,Google Team Drive,15.0,0
+182,NHO Prep Tasks,12/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+183,Support Chat Notification Bot,4/1/2020,278.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,557.0,Support Chat Notification Bot,0.5,0
+184,Autolist KB Daily Update,10/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+185,Pushmail Ticket Deflection,3/1/2021,91.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,13.0,Pushmail Ticket Deflection,7.0,0
+186,RingCentral User Termination,6/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+187,LDAP lookup module,10/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+188,RingCentral User Termination,9/1/2021,30.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+189,GWS' Weekly Email Reminders,7/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+190,RHEL 8 Deployment,3/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+191,Google Calendar Creation,2/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+192,Google Group Management,5/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+193,LDAP Service Group,12/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+194,GSS Salesforce Account Create,1/1/2021,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+195,IT Manager Check,1/1/2021,10.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,2.0,IT Manager Check,5.0,0
+196,DBA - Redshift Account Deployment,10/1/2020,375.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,50.0,DBA - Redshift Account Deployment,7.5,0
+197,ALGE,10/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+198,Tableau LDAP,12/1/2020,4448.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,556.0,Tableau LDAP,8.0,0
+199,Email Alias Termination,5/1/2021,252.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+200,GSS Salesforce Account Create,8/1/2021,50.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,2.0,GSS Salesforce Account Create,25.0,0
+201,Tableau ServiceGroups,12/1/2021,568.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,71.0,Tableau ServiceGroups,8.0,0
+202,ServiceNow Lookup module,5/1/2020,144.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+203,Tableau API Token Refresher,7/1/2021,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+204,ServiceNow Lookup module,7/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+205,MPaaS+ Migration Support,12/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+206,Mailing Lists,11/1/2020,2960.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,148.0,Mailing Lists,20.0,
+207,Tableau LDAP,1/1/2021,5728.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,716.0,Tableau LDAP,8.0,0
+208,Humanity Schedule Bot,6/1/2020,10.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,4.0,Humanity Schedule Bot,2.5,1440
+209,ALGE,2/1/2021,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+210,ALGE,10/1/2021,90.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,3.0,ALGE,30.0,
+211,Rehire Associate Check,6/1/2020,180.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,15.0,Rehire Associate Check,12.0,1440
+212,RingCentral User Deployment,7/1/2021,165.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,33.0,RingCentral User Deployment,5.0,6660
+213,Windows AD Account Mgmt,7/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+214,GSS Salesforce Account Create,4/1/2020,25.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,1.0,GSS Salesforce Account Create,25.0,0
+215,sn_tableau_ldap,6/1/2021,5950.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,850.0,sn_tableau_ldap,7.0,0
+216,Tableau LDAP,11/1/2021,5936.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,742.0,Tableau LDAP,8.0,0
+217,Google Group Management,9/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+218,Humanity Schedule Bot,8/1/2021,72.5,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,29.0,Humanity Schedule Bot,2.5,1440
+219,Pushmail Ticket Deflection,2/1/2021,105.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,15.0,Pushmail Ticket Deflection,7.0,0
+220,Tableau ServiceGroups,11/1/2020,288.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,36.0,Tableau ServiceGroups,8.0,0
+221,ggroupMembership,9/1/2021,32.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+222,Google Group Management,4/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+223,IT Hire Check,7/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+224,MPaaS+ Migration Support,9/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+225,LDAP POSIX Group,12/1/2020,2700.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,225.0,LDAP POSIX Group,12.0,
+226,Google Team Drive,4/1/2020,645.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,43.0,Google Team Drive,15.0,0
+227,RingCentral User Termination,10/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+228,LDAP lookup module,7/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+229,NHO Prep Tasks,1/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+230,Google Group Management,8/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+231,Google Group Management,3/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+232,GWS' Weekly Email Reminders,8/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+233,Tableau ServiceGroups,4/1/2021,752.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,94.0,Tableau ServiceGroups,8.0,0
+234,Google Calendar Creation,10/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+235,RingCentral User Deployment,3/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+236,RingCentral User Termination,8/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+237,SFDC Account Terminations,6/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+238,RingCentral User Deployment,5/1/2021,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+239,MPaaS+ General Support Request,8/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+240,Bulk Email Alias Deletions,10/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+241,LDAP POSIX Group,7/1/2020,2220.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,185.0,LDAP POSIX Group,12.0,
+242,ggroupMembership,7/1/2021,8.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+243,Support Chat Notification Bot,11/1/2020,189.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,378.0,Support Chat Notification Bot,0.5,0
+244,GSS Salesforce Account Create,12/1/2020,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+245,Mailing Lists,1/1/2020,3400.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,170.0,Mailing Lists,20.0,
+246,IT Manager Check,5/1/2021,15.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,3.0,IT Manager Check,5.0,0
+247,Tableau LDAP,9/1/2021,8680.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1085.0,Tableau LDAP,8.0,0
+248,Humanity Schedule Bot,7/1/2020,15.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,6.0,Humanity Schedule Bot,2.5,1440
+249,LDAP-Rover Syncs,3/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+250,RHEL 8 Deployment,7/1/2020,540.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+251,ggroupMembership,11/1/2021,48.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+252,Tableau LDAP,2/1/2020,9544.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1193.0,Tableau LDAP,8.0,0
+253,LDAP Service Group,10/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+254,LDAP lookup module,12/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+255,Autolist KB Daily Update,9/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+256,ALGE,12/1/2021,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+257,Tableau LDAP,5/1/2021,7528.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,941.0,Tableau LDAP,8.0,0
+258,Support Chat Notification Bot,3/1/2021,170.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,340.0,Support Chat Notification Bot,0.5,0
+259,ggroupMembership,11/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+260,Pushmail Ticket Deflection,10/1/2020,154.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,22.0,Pushmail Ticket Deflection,7.0,0
+261,Google Calendar Creation,12/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+262,sn_tableau_ldap,12/1/2020,3192.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,456.0,sn_tableau_ldap,7.0,0
+263,global_wifi,11/1/2020,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+264,GWS' Weekly Email Reminders,8/1/2020,68.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+265,MPaaS+ General Support Request,11/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+266,Tableau ServiceGroups,11/1/2021,984.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,123.0,Tableau ServiceGroups,8.0,0
+267,Google Team Drive,12/1/2020,120.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,8.0,Google Team Drive,15.0,0
+268,Mailing Lists,4/1/2020,4680.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,234.0,Mailing Lists,20.0,
+269,IT Hire Check,2/1/2021,340.0,Emails IT S&E content to new IT hires,64.5,,Daily,68.0,IT Hire Check,5.0,0
+270,Rehire Associate Check,2/1/2021,192.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,16.0,Rehire Associate Check,12.0,1440
+271,Google Calendar Creation,11/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+272,Rehire Associate Check,3/1/2021,120.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,10.0,Rehire Associate Check,12.0,1440
+273,Google Alias,6/1/2021,312.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+274,Pushmail Ticket Deflection,6/1/2020,42.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,6.0,Pushmail Ticket Deflection,7.0,0
+275,Tableau LDAP,6/1/2020,13112.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1639.0,Tableau LDAP,8.0,0
+276,Google Alias,4/1/2021,284.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+277,RingCentral User Deployment,5/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+278,GWS' Weekly Email Reminders,11/1/2020,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+279,Email Alias Termination,8/1/2020,1564.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+280,RingCentral User Termination,6/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+281,GWS' Weekly Email Reminders,4/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+282,IT Manager Check,8/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+283,GWS' Weekly Email Reminders,5/1/2020,76.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+284,Autolist KB Daily Update,2/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+285,Pushmail Ticket Deflection,4/1/2020,84.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,12.0,Pushmail Ticket Deflection,7.0,0
+286,NHO Prep Tasks,6/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+287,Tableau API Token Refresher,3/1/2020,35.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,5.0,Tableau API Token Refresher,7.0,3240
+288,Google Alias,7/1/2021,324.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+289,IT Manager Check,3/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+290,Email Alias Termination,5/1/2020,984.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+291,Rehire Associate Check,1/1/2020,288.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,24.0,Rehire Associate Check,12.0,1440
+292,Mailing Lists,2/1/2021,4020.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,201.0,Mailing Lists,20.0,
+293,Support Chat Notification Bot,8/1/2021,154.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,309.0,Support Chat Notification Bot,0.5,0
+294,Google Team Drive,6/1/2021,435.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,29.0,Google Team Drive,15.0,0
+295,ServiceNow Lookup module,9/1/2020,54.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+296,NGDC Service Catalog Item,9/1/2021,140.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+297,LDAP lookup module,4/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+298,RingCentral User Deployment,1/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+299,Tableau ServiceGroups,6/1/2020,672.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,84.0,Tableau ServiceGroups,8.0,0
+300,Google Group Management,6/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+301,SFDC Account Terminations,5/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+302,Tableau LDAP,3/1/2020,9928.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1241.0,Tableau LDAP,8.0,0
+303,ggroupMembership,4/1/2021,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+304,GSS Salesforce Account Create,11/1/2021,125.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,5.0,GSS Salesforce Account Create,25.0,0
+305,Mail Alias,11/1/2020,608.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,76.0,Mail Alias,8.0,
+306,Humanity Schedule Bot,3/1/2021,32.5,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,13.0,Humanity Schedule Bot,2.5,1440
+307,NHO Prep Tasks,8/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+308,Mailing Lists,8/1/2020,2560.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,128.0,Mailing Lists,20.0,
+309,DBA - Redshift Account Deployment,1/1/2020,0.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,0.0,DBA - Redshift Account Deployment,7.5,0
+310,Google Calendar Creation,11/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+311,MPaaS+ General Support Request,1/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+312,LDAP POSIX Group,3/1/2020,4596.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,383.0,LDAP POSIX Group,12.0,
+313,ggroupMembership,3/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+314,Google Group Management,1/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+315,sn_tableau_ldap,3/1/2021,5579.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,797.0,sn_tableau_ldap,7.0,0
+316,Support Chat Notification Bot,1/1/2020,102.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,204.0,Support Chat Notification Bot,0.5,0
+317,Pushmail Ticket Deflection,8/1/2021,28.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,4.0,Pushmail Ticket Deflection,7.0,0
+318,LDAP-Rover Syncs,5/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+319,Google Group Management,8/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+320,LDAP POSIX Group,11/1/2020,2484.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,207.0,LDAP POSIX Group,12.0,
+321,Autolist KB Daily Update,3/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+322,MPaaS+ Migration Support,4/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+323,Google Group Management,2/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+324,NHO Prep Tasks,10/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+325,Mailing Lists,10/1/2020,3200.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,160.0,Mailing Lists,20.0,
+326,Mailing Lists,8/1/2021,3460.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,173.0,Mailing Lists,20.0,
+327,LDAP Service Group,1/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+328,SFDC Account Terminations,7/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+329,ALGE,1/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+330,Tableau LDAP,3/1/2021,7504.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,938.0,Tableau LDAP,8.0,0
+331,RHEL 8 Deployment,11/1/2020,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+332,LDAP-Rover Syncs,11/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+333,global_wifi,3/1/2020,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+334,Email Alias Termination,11/1/2020,764.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+335,NGDC Service Catalog Item,12/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+336,ServiceNow Lookup module,11/1/2020,54.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+337,IT Hire Check,3/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+338,Tableau LDAP,1/1/2020,7280.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,910.0,Tableau LDAP,8.0,0
+339,Google Group Management,5/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+340,LDAP POSIX Group,4/1/2020,5052.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,421.0,LDAP POSIX Group,12.0,
+341,Mail Alias,6/1/2021,888.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,111.0,Mail Alias,8.0,
+342,Bulk Email Alias Deletions,4/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+343,LDAP Service Group,4/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+344,Tableau API Token Refresher,10/1/2020,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+345,Tableau ServiceGroups,1/1/2020,400.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,50.0,Tableau ServiceGroups,8.0,0
+346,GWS' Weekly Email Reminders,5/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+347,Email Alias Termination,2/1/2020,748.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+348,SFDC Account Terminations,12/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+349,LDAP Service Group,6/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+350,Google Calendar Creation,6/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+351,NHO Prep Tasks,3/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+352,ServiceNow Lookup module,11/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+353,Google Team Drive,7/1/2021,390.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,26.0,Google Team Drive,15.0,0
+354,IT Manager Check,10/1/2021,45.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,9.0,IT Manager Check,5.0,0
+355,RHEL 8 Deployment,5/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+356,MPaaS+ Migration Support,9/1/2021,112.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+357,SFDC Account Terminations,11/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+358,Google Team Drive,5/1/2020,450.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,30.0,Google Team Drive,15.0,0
+359,Mail Alias,5/1/2021,896.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,112.0,Mail Alias,8.0,
+360,ALGE,12/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+361,Support Chat Notification Bot,9/1/2020,168.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,336.0,Support Chat Notification Bot,0.5,0
+362,Pushmail Ticket Deflection,7/1/2020,98.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,14.0,Pushmail Ticket Deflection,7.0,0
+363,NGDC Service Catalog Item,4/1/2021,20.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+364,MPaaS+ Migration Support,3/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+365,LDAP-Rover Syncs,2/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+366,Google Alias,1/1/2021,244.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+367,Email Alias Termination,4/1/2021,380.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+368,Rehire Associate Check,12/1/2021,36.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,3.0,Rehire Associate Check,12.0,1440
+369,Pushmail Ticket Deflection,9/1/2021,21.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,3.0,Pushmail Ticket Deflection,7.0,0
+370,Google Group Management,11/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+371,Mailing Lists,9/1/2021,4760.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,238.0,Mailing Lists,20.0,
+372,RingCentral User Deployment,8/1/2021,165.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,33.0,RingCentral User Deployment,5.0,6660
+373,ServiceNow Lookup module,7/1/2020,84.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+374,Mail Alias,8/1/2021,864.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,108.0,Mail Alias,8.0,
+375,LDAP Service Group,11/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+376,Bulk Email Alias Deletions,12/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+377,Google Team Drive,7/1/2020,300.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,20.0,Google Team Drive,15.0,0
+378,Rehire Associate Check,7/1/2020,168.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,14.0,Rehire Associate Check,12.0,1440
+379,GSS Salesforce Account Create,1/1/2020,75.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,3.0,GSS Salesforce Account Create,25.0,0
+380,NGDC Service Catalog Item,11/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+381,GWS' Weekly Email Reminders,12/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+382,MPaaS+ Migration Support,7/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+383,Google Team Drive,8/1/2020,330.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,22.0,Google Team Drive,15.0,0
+384,ALGE,4/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+385,NGDC Service Catalog Item,5/1/2021,80.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+386,LDAP lookup module,2/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+387,SFDC Account Terminations,1/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+388,Email Alias Termination,10/1/2021,1200.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+389,Email Alias Termination,11/1/2021,1632.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+390,sn_tableau_ldap,5/1/2020,0.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,0.0,sn_tableau_ldap,7.0,0
+391,Tableau API Token Refresher,9/1/2021,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+392,RingCentral User Termination,4/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+393,Autolist KB Daily Update,8/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+394,IT Manager Check,5/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+395,DBA - Redshift Account Deployment,12/1/2021,667.5,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,89.0,DBA - Redshift Account Deployment,7.5,0
+396,ALGE,11/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+397,Humanity Schedule Bot,4/1/2020,5.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,2.0,Humanity Schedule Bot,2.5,1440
+398,Tableau API Token Refresher,5/1/2021,35.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,5.0,Tableau API Token Refresher,7.0,3240
+399,ggroupMembership,12/1/2021,88.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+400,Google Alias,11/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+401,Windows AD Account Mgmt,4/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+402,Google Group Management,10/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+403,IT Manager Check,3/1/2021,20.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,4.0,IT Manager Check,5.0,0
+404,DBA - Redshift Account Deployment,8/1/2021,690.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,92.0,DBA - Redshift Account Deployment,7.5,0
+405,Windows AD Account Mgmt,7/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+406,LDAP Service Group,7/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+407,IT Hire Check,6/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+408,RingCentral User Deployment,10/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+409,Google Calendar Creation,9/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+410,sn_tableau_ldap,7/1/2020,0.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,0.0,sn_tableau_ldap,7.0,0
+411,RingCentral User Deployment,12/1/2021,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+412,LDAP POSIX Group,8/1/2020,1860.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,155.0,LDAP POSIX Group,12.0,
+413,global_wifi,2/1/2020,210.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,21.0,global_wifi,10.0,0
+414,Mail Alias,7/1/2020,680.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,85.0,Mail Alias,8.0,
+415,Bulk Email Alias Deletions,9/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+416,Bulk Email Alias Deletions,11/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+417,Bulk Email Alias Deletions,12/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+418,DBA - Redshift Account Deployment,2/1/2021,435.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,58.0,DBA - Redshift Account Deployment,7.5,0
+419,sn_tableau_ldap,2/1/2021,3899.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,557.0,sn_tableau_ldap,7.0,0
+420,GWS' Weekly Email Reminders,2/1/2020,68.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+421,NGDC Service Catalog Item,1/1/2021,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+422,MPaaS+ General Support Request,6/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+423,Google Calendar Creation,10/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+424,Google Calendar Creation,5/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+425,Bulk Email Alias Deletions,11/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+426,DBA - Redshift Account Deployment,6/1/2021,855.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,114.0,DBA - Redshift Account Deployment,7.5,0
+427,GSS Salesforce Account Create,9/1/2020,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+428,RingCentral User Termination,9/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+429,Google Group Management,9/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+430,Support Chat Notification Bot,3/1/2020,170.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,341.0,Support Chat Notification Bot,0.5,0
+431,IT Hire Check,5/1/2021,205.0,Emails IT S&E content to new IT hires,64.5,,Daily,41.0,IT Hire Check,5.0,0
+432,Tableau ServiceGroups,7/1/2021,688.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,86.0,Tableau ServiceGroups,8.0,0
+433,NGDC Service Catalog Item,12/1/2021,80.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+434,ggroupMembership,2/1/2021,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+435,LDAP Service Group,4/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+436,Google Calendar Creation,8/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+437,Google Team Drive,2/1/2021,525.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,35.0,Google Team Drive,15.0,0
+438,Google Group Management,2/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+439,SFDC Account Terminations,9/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+440,Tableau ServiceGroups,9/1/2020,392.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,49.0,Tableau ServiceGroups,8.0,0
+441,LDAP-Rover Syncs,1/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+442,Google Alias,12/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+443,RHEL 8 Deployment,1/1/2020,810.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+444,MPaaS+ General Support Request,5/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+445,Bulk Email Alias Deletions,5/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+446,Google Team Drive,2/1/2020,435.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,29.0,Google Team Drive,15.0,0
+447,Tableau API Token Refresher,12/1/2021,217.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,31.0,Tableau API Token Refresher,7.0,3240
+448,RingCentral User Deployment,7/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+449,Support Chat Notification Bot,4/1/2021,146.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,292.0,Support Chat Notification Bot,0.5,0
+450,IT Manager Check,7/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+451,LDAP-Rover Syncs,9/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+452,Autolist KB Daily Update,4/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+453,Bulk Email Alias Deletions,2/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+454,Humanity Schedule Bot,11/1/2020,0.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,0.0,Humanity Schedule Bot,2.5,1440
+455,LDAP-Rover Syncs,10/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+456,MPaaS+ Migration Support,2/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+457,NHO Prep Tasks,4/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+458,GWS' Weekly Email Reminders,3/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+459,LDAP Service Group,7/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+460,GSS Salesforce Account Create,9/1/2021,125.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,5.0,GSS Salesforce Account Create,25.0,0
+461,Bulk Email Alias Deletions,4/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+462,ALGE,1/1/2021,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+463,MPaaS+ General Support Request,7/1/2021,56.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+464,global_wifi,8/1/2020,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+465,Google Team Drive,8/1/2021,405.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,27.0,Google Team Drive,15.0,0
+466,global_wifi,8/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+467,MPaaS+ General Support Request,12/1/2021,384.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+468,Email Alias Termination,3/1/2020,856.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+469,Mail Alias,10/1/2021,1136.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,142.0,Mail Alias,8.0,
+470,Tableau API Token Refresher,2/1/2021,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+471,Google Group Management,4/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+472,NGDC Service Catalog Item,3/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+473,MPaaS+ Migration Support,6/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+474,NGDC Service Catalog Item,6/1/2021,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+475,RHEL 8 Deployment,8/1/2020,270.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+476,Tableau LDAP,10/1/2020,5000.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,625.0,Tableau LDAP,8.0,0
+477,Autolist KB Daily Update,7/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+478,MPaaS+ Migration Support,3/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+479,SFDC Account Terminations,1/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+480,Pushmail Ticket Deflection,9/1/2020,63.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,9.0,Pushmail Ticket Deflection,7.0,0
+481,ServiceNow Lookup module,10/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+482,NGDC Service Catalog Item,2/1/2021,60.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+483,Windows AD Account Mgmt,3/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+484,Pushmail Ticket Deflection,6/1/2021,399.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,57.0,Pushmail Ticket Deflection,7.0,0
+485,Autolist KB Daily Update,9/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+486,ALGE,11/1/2021,150.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,5.0,ALGE,30.0,
+487,Tableau ServiceGroups,8/1/2021,992.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,124.0,Tableau ServiceGroups,8.0,0
+488,GWS' Weekly Email Reminders,4/1/2020,76.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+489,Tableau ServiceGroups,8/1/2020,744.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,93.0,Tableau ServiceGroups,8.0,0
+490,Humanity Schedule Bot,9/1/2021,100.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,40.0,Humanity Schedule Bot,2.5,1440
+491,LDAP Service Group,2/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+492,NHO Prep Tasks,7/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+493,Pushmail Ticket Deflection,11/1/2020,56.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,8.0,Pushmail Ticket Deflection,7.0,0
+494,Windows AD Account Mgmt,2/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+495,RHEL 8 Deployment,11/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+496,IT Hire Check,8/1/2021,475.0,Emails IT S&E content to new IT hires,64.5,,Daily,95.0,IT Hire Check,5.0,0
+497,GWS' Weekly Email Reminders,7/1/2020,84.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+498,SFDC Account Terminations,4/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+499,MPaaS+ General Support Request,9/1/2021,232.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+500,Mail Alias,3/1/2021,1088.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,136.0,Mail Alias,8.0,
+501,Email Alias Termination,6/1/2020,1884.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+502,DBA - Redshift Account Deployment,10/1/2021,750.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,100.0,DBA - Redshift Account Deployment,7.5,0
+503,GSS Salesforce Account Create,4/1/2021,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+504,DBA - Redshift Account Deployment,6/1/2020,0.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,0.0,DBA - Redshift Account Deployment,7.5,0
+505,Pushmail Ticket Deflection,12/1/2020,91.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,13.0,Pushmail Ticket Deflection,7.0,0
+506,Support Chat Notification Bot,7/1/2021,194.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,388.0,Support Chat Notification Bot,0.5,0
+507,LDAP lookup module,8/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+508,MPaaS+ General Support Request,3/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+509,RingCentral User Deployment,9/1/2021,15.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,3.0,RingCentral User Deployment,5.0,6660
+510,LDAP lookup module,12/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+511,Google Team Drive,10/1/2020,180.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,12.0,Google Team Drive,15.0,0
+512,sn_tableau_ldap,9/1/2021,7406.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,1058.0,sn_tableau_ldap,7.0,0
+513,Pushmail Ticket Deflection,11/1/2021,56.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,8.0,Pushmail Ticket Deflection,7.0,0
+514,sn_tableau_ldap,1/1/2020,0.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,0.0,sn_tableau_ldap,7.0,0
+515,RingCentral User Termination,3/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+516,GSS Salesforce Account Create,6/1/2021,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+517,RHEL 8 Deployment,8/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+518,GWS' Weekly Email Reminders,6/1/2020,68.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+519,ALGE,5/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+520,LDAP POSIX Group,5/1/2021,3336.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,278.0,LDAP POSIX Group,12.0,
+521,Mailing Lists,6/1/2021,3900.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,195.0,Mailing Lists,20.0,
+522,Bulk Email Alias Deletions,3/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+523,RingCentral User Deployment,6/1/2021,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+524,ServiceNow Lookup module,8/1/2020,54.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+525,RHEL 8 Deployment,9/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+526,ALGE,7/1/2021,30.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,1.0,ALGE,30.0,
+527,IT Manager Check,10/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+528,LDAP-Rover Syncs,8/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+529,NHO Prep Tasks,2/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+530,Google Team Drive,12/1/2021,390.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,26.0,Google Team Drive,15.0,0
+531,Rehire Associate Check,6/1/2021,228.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,19.0,Rehire Associate Check,12.0,1440
+532,RHEL 8 Deployment,9/1/2020,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+533,NHO Prep Tasks,6/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+534,DBA - Redshift Account Deployment,7/1/2021,697.5,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,93.0,DBA - Redshift Account Deployment,7.5,0
+535,IT Manager Check,1/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+536,LDAP POSIX Group,6/1/2021,4152.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,346.0,LDAP POSIX Group,12.0,
+537,RHEL 8 Deployment,10/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+538,LDAP-Rover Syncs,12/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+539,Mailing Lists,6/1/2020,3420.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,171.0,Mailing Lists,20.0,
+540,LDAP lookup module,6/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+541,Windows AD Account Mgmt,1/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+542,Humanity Schedule Bot,8/1/2020,20.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,8.0,Humanity Schedule Bot,2.5,1440
+543,LDAP lookup module,2/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+544,NGDC Service Catalog Item,7/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+545,Rehire Associate Check,4/1/2020,120.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,10.0,Rehire Associate Check,12.0,1440
+546,global_wifi,7/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+547,Support Chat Notification Bot,2/1/2020,120.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,241.0,Support Chat Notification Bot,0.5,0
+548,ggroupMembership,8/1/2021,64.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+549,MPaaS+ Migration Support,6/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+550,sn_tableau_ldap,11/1/2020,4452.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,636.0,sn_tableau_ldap,7.0,0
+551,Autolist KB Daily Update,11/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+552,RingCentral User Deployment,8/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+553,Mail Alias,10/1/2020,888.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,111.0,Mail Alias,8.0,
+554,Google Alias,5/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+555,RingCentral User Termination,7/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+556,global_wifi,2/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+557,Tableau API Token Refresher,10/1/2021,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+558,Google Calendar Creation,3/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+559,Autolist KB Daily Update,7/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+560,Tableau API Token Refresher,5/1/2020,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+561,RingCentral User Termination,3/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+562,MPaaS+ Migration Support,5/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+563,LDAP lookup module,4/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+564,Windows AD Account Mgmt,6/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+565,RingCentral User Termination,12/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+566,LDAP-Rover Syncs,6/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+567,RingCentral User Termination,11/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+568,SFDC Account Terminations,2/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+569,MPaaS+ General Support Request,2/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+570,sn_tableau_ldap,8/1/2020,0.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,0.0,sn_tableau_ldap,7.0,0
+571,Pushmail Ticket Deflection,10/1/2021,91.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,13.0,Pushmail Ticket Deflection,7.0,0
+572,LDAP-Rover Syncs,5/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+573,Tableau LDAP,9/1/2020,10280.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1285.0,Tableau LDAP,8.0,0
+574,Mail Alias,2/1/2020,1208.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,151.0,Mail Alias,8.0,
+575,Rehire Associate Check,8/1/2020,108.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,9.0,Rehire Associate Check,12.0,1440
+576,SFDC Account Terminations,11/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+577,MPaaS+ General Support Request,11/1/2021,432.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+578,Humanity Schedule Bot,9/1/2020,22.5,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,9.0,Humanity Schedule Bot,2.5,1440
+579,RingCentral User Deployment,9/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+580,Tableau API Token Refresher,6/1/2020,35.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,5.0,Tableau API Token Refresher,7.0,3240
+581,ggroupMembership,9/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+582,Mail Alias,8/1/2020,888.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,111.0,Mail Alias,8.0,
+583,GWS' Weekly Email Reminders,10/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+584,LDAP Service Group,1/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+585,Google Team Drive,5/1/2021,465.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,31.0,Google Team Drive,15.0,0
+586,NHO Prep Tasks,8/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+587,sn_tableau_ldap,10/1/2020,3311.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,473.0,sn_tableau_ldap,7.0,0
+588,Autolist KB Daily Update,5/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+589,LDAP Service Group,5/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+590,DBA - Redshift Account Deployment,1/1/2021,690.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,92.0,DBA - Redshift Account Deployment,7.5,0
+591,NGDC Service Catalog Item,4/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+592,Mailing Lists,3/1/2021,4000.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,200.0,Mailing Lists,20.0,
+593,Tableau API Token Refresher,8/1/2021,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+594,Google Calendar Creation,9/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+595,Pushmail Ticket Deflection,2/1/2020,280.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,40.0,Pushmail Ticket Deflection,7.0,0
+596,Windows AD Account Mgmt,1/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+597,Autolist KB Daily Update,6/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+598,Pushmail Ticket Deflection,1/1/2020,77.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,11.0,Pushmail Ticket Deflection,7.0,0
+599,ALGE,4/1/2021,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+600,Google Alias,11/1/2021,484.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+601,GWS' Weekly Email Reminders,2/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+602,SFDC Account Terminations,10/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+603,LDAP POSIX Group,12/1/2021,4212.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,351.0,LDAP POSIX Group,12.0,
+604,Tableau API Token Refresher,1/1/2020,0.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,0.0,Tableau API Token Refresher,7.0,3240
+605,Humanity Schedule Bot,1/1/2021,155.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,62.0,Humanity Schedule Bot,2.5,1440
+606,Google Alias,8/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+607,MPaaS+ Migration Support,2/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+608,GSS Salesforce Account Create,2/1/2020,100.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,4.0,GSS Salesforce Account Create,25.0,0
+609,GSS Salesforce Account Create,10/1/2021,375.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,15.0,GSS Salesforce Account Create,25.0,0
+610,Google Group Management,10/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+611,RingCentral User Deployment,10/1/2021,60.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,12.0,RingCentral User Deployment,5.0,6660
+612,IT Hire Check,2/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+613,Google Alias,3/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+614,sn_tableau_ldap,7/1/2021,9457.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,1351.0,sn_tableau_ldap,7.0,0
+615,Windows AD Account Mgmt,12/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+616,NGDC Service Catalog Item,6/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+617,sn_tableau_ldap,10/1/2021,5551.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,793.0,sn_tableau_ldap,7.0,0
+618,Mailing Lists,7/1/2020,2940.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,147.0,Mailing Lists,20.0,
+619,Autolist KB Daily Update,12/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+620,NGDC Service Catalog Item,9/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+621,ALGE,5/1/2021,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+622,IT Manager Check,6/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+623,Tableau API Token Refresher,4/1/2021,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+624,Google Group Management,1/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+625,LDAP-Rover Syncs,7/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+626,Tableau LDAP,7/1/2021,7248.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,906.0,Tableau LDAP,8.0,0
+627,Mail Alias,1/1/2020,1128.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,141.0,Mail Alias,8.0,
+628,Tableau LDAP,12/1/2021,5160.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,645.0,Tableau LDAP,8.0,0
+629,MPaaS+ General Support Request,7/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+630,GSS Salesforce Account Create,3/1/2020,25.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,1.0,GSS Salesforce Account Create,25.0,0
+631,Tableau ServiceGroups,1/1/2021,552.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,69.0,Tableau ServiceGroups,8.0,0
+632,Tableau LDAP,8/1/2021,9256.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1157.0,Tableau LDAP,8.0,0
+633,Autolist KB Daily Update,12/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+634,NGDC Service Catalog Item,3/1/2021,40.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+635,MPaaS+ General Support Request,3/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+636,Support Chat Notification Bot,8/1/2020,242.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,485.0,Support Chat Notification Bot,0.5,0
+637,IT Hire Check,1/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+638,ServiceNow Lookup module,6/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+639,Pushmail Ticket Deflection,12/1/2021,49.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,7.0,Pushmail Ticket Deflection,7.0,0
+640,Tableau ServiceGroups,9/1/2021,928.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,116.0,Tableau ServiceGroups,8.0,0
+641,Pushmail Ticket Deflection,5/1/2020,161.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,23.0,Pushmail Ticket Deflection,7.0,0
+642,NHO Prep Tasks,9/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+643,IT Manager Check,9/1/2021,75.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,15.0,IT Manager Check,5.0,0
+644,Autolist KB Daily Update,2/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+645,Google Calendar Creation,7/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+646,Humanity Schedule Bot,6/1/2021,75.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,30.0,Humanity Schedule Bot,2.5,1440
+647,Autolist KB Daily Update,5/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+648,RingCentral User Termination,12/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+649,ggroupMembership,2/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+650,NGDC Service Catalog Item,5/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+651,Tableau API Token Refresher,6/1/2021,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+652,Google Alias,10/1/2021,100.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+653,IT Hire Check,11/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+654,LDAP Service Group,10/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+655,LDAP POSIX Group,6/1/2020,3912.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,326.0,LDAP POSIX Group,12.0,
+656,LDAP-Rover Syncs,11/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+657,Tableau LDAP,4/1/2021,6720.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,840.0,Tableau LDAP,8.0,0
+658,MPaaS+ General Support Request,2/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+659,NHO Prep Tasks,1/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+660,RingCentral User Termination,5/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+661,LDAP lookup module,7/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+662,LDAP POSIX Group,1/1/2020,5184.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,432.0,LDAP POSIX Group,12.0,
+663,RHEL 8 Deployment,1/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+664,ggroupMembership,6/1/2021,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+665,Tableau ServiceGroups,5/1/2020,616.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,77.0,Tableau ServiceGroups,8.0,0
+666,Google Calendar Creation,7/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+667,ALGE,9/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+668,LDAP-Rover Syncs,10/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+669,RHEL 8 Deployment,12/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+670,Autolist KB Daily Update,11/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+671,Mailing Lists,9/1/2020,3140.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,157.0,Mailing Lists,20.0,
+672,Google Calendar Creation,2/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+673,MPaaS+ Migration Support,5/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+674,Tableau ServiceGroups,7/1/2020,480.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,60.0,Tableau ServiceGroups,8.0,0
+675,ALGE,8/1/2021,30.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,1.0,ALGE,30.0,
+676,Google Calendar Creation,4/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+677,SFDC Account Terminations,5/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+678,ServiceNow Lookup module,3/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+679,global_wifi,1/1/2020,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+680,Google Group Management,7/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+681,Google Team Drive,1/1/2020,195.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,13.0,Google Team Drive,15.0,0
+682,RHEL 8 Deployment,6/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+683,Humanity Schedule Bot,12/1/2020,0.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,0.0,Humanity Schedule Bot,2.5,1440
+684,Rehire Associate Check,11/1/2020,108.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,9.0,Rehire Associate Check,12.0,1440
+685,NGDC Service Catalog Item,11/1/2021,80.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+686,RingCentral User Termination,2/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+687,MPaaS+ General Support Request,10/1/2021,352.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+688,LDAP POSIX Group,10/1/2020,3000.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,250.0,LDAP POSIX Group,12.0,
+689,Humanity Schedule Bot,2/1/2021,27.5,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,11.0,Humanity Schedule Bot,2.5,1440
+690,MPaaS+ General Support Request,4/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+691,NHO Prep Tasks,12/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+692,Tableau ServiceGroups,2/1/2021,400.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,50.0,Tableau ServiceGroups,8.0,0
+693,RingCentral User Deployment,6/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+694,IT Hire Check,5/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+695,Mailing Lists,2/1/2020,4460.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,223.0,Mailing Lists,20.0,
+696,Humanity Schedule Bot,4/1/2021,40.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,16.0,Humanity Schedule Bot,2.5,1440
+697,MPaaS+ General Support Request,6/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+698,Google Alias,12/1/2021,708.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+699,MPaaS+ Migration Support,8/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+700,Tableau API Token Refresher,2/1/2020,0.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,0.0,Tableau API Token Refresher,7.0,3240
+701,LDAP Service Group,3/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+702,Email Alias Termination,12/1/2020,996.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+703,Tableau ServiceGroups,2/1/2020,408.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,51.0,Tableau ServiceGroups,8.0,0
+704,Google Calendar Creation,3/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+705,NGDC Service Catalog Item,10/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+706,LDAP Service Group,9/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+707,Mailing Lists,3/1/2020,5200.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,260.0,Mailing Lists,20.0,
+708,Google Group Management,3/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+709,Mailing Lists,1/1/2021,4980.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,249.0,Mailing Lists,20.0,
+710,Humanity Schedule Bot,12/1/2021,0.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,0.0,Humanity Schedule Bot,2.5,1440
+711,Email Alias Termination,3/1/2021,380.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+712,Windows AD Account Mgmt,11/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+713,GWS' Weekly Email Reminders,9/1/2020,76.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+714,RingCentral User Termination,7/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+715,LDAP-Rover Syncs,7/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+716,MPaaS+ Migration Support,1/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+717,NHO Prep Tasks,5/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+718,Tableau LDAP,8/1/2020,9408.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1176.0,Tableau LDAP,8.0,0
+719,Humanity Schedule Bot,10/1/2021,110.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,44.0,Humanity Schedule Bot,2.5,1440
+720,SFDC Account Terminations,3/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+721,LDAP-Rover Syncs,2/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+722,NHO Prep Tasks,2/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+723,GSS Salesforce Account Create,2/1/2021,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+724,RHEL 8 Deployment,4/1/2020,540.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+725,Email Alias Termination,12/1/2021,1588.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+726,IT Manager Check,11/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+727,Mail Alias,12/1/2021,672.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,84.0,Mail Alias,8.0,
+728,RHEL 8 Deployment,6/1/2020,270.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+729,Tableau API Token Refresher,8/1/2020,35.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,5.0,Tableau API Token Refresher,7.0,3240
+730,LDAP Service Group,2/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+731,Mailing Lists,5/1/2020,4040.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,202.0,Mailing Lists,20.0,
+732,Bulk Email Alias Deletions,7/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+733,DBA - Redshift Account Deployment,11/1/2020,637.5,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,85.0,DBA - Redshift Account Deployment,7.5,0
+734,ServiceNow Lookup module,9/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+735,LDAP lookup module,6/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+736,Bulk Email Alias Deletions,8/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+737,ALGE,2/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+738,Humanity Schedule Bot,2/1/2020,20.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,8.0,Humanity Schedule Bot,2.5,1440
+739,DBA - Redshift Account Deployment,4/1/2020,0.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,0.0,DBA - Redshift Account Deployment,7.5,0
+740,Tableau API Token Refresher,9/1/2020,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+741,IT Manager Check,11/1/2021,50.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,10.0,IT Manager Check,5.0,0
+742,IT Manager Check,8/1/2021,30.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,6.0,IT Manager Check,5.0,0
+743,IT Hire Check,6/1/2021,255.0,Emails IT S&E content to new IT hires,64.5,,Daily,51.0,IT Hire Check,5.0,0
+744,GWS' Weekly Email Reminders,1/1/2020,84.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+745,Mailing Lists,4/1/2021,4220.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,211.0,Mailing Lists,20.0,
+746,GSS Salesforce Account Create,12/1/2021,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+747,Tableau LDAP,6/1/2021,11328.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1416.0,Tableau LDAP,8.0,0
+748,ServiceNow Lookup module,1/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+749,sn_tableau_ldap,4/1/2021,4137.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,591.0,sn_tableau_ldap,7.0,0
+750,GWS' Weekly Email Reminders,6/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+751,ServiceNow Lookup module,4/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+752,Google Calendar Creation,1/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+753,SFDC Account Terminations,4/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+754,Google Group Management,12/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+755,LDAP lookup module,8/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+756,LDAP POSIX Group,7/1/2021,6240.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,520.0,LDAP POSIX Group,12.0,
+757,IT Manager Check,6/1/2021,5.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,1.0,IT Manager Check,5.0,0
+758,ServiceNow Lookup module,5/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+759,Google Alias,9/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+760,Google Calendar Creation,6/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+761,SFDC Account Terminations,3/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+762,NHO Prep Tasks,9/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+763,MPaaS+ General Support Request,12/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+764,DBA - Redshift Account Deployment,7/1/2020,0.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,0.0,DBA - Redshift Account Deployment,7.5,0
+765,Support Chat Notification Bot,10/1/2021,126.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,252.0,Support Chat Notification Bot,0.5,0
+766,Google Group Management,12/1/2020,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+767,Mail Alias,2/1/2021,792.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,99.0,Mail Alias,8.0,
+768,Google Team Drive,4/1/2021,570.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,38.0,Google Team Drive,15.0,0
+769,sn_tableau_ldap,11/1/2021,4592.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,656.0,sn_tableau_ldap,7.0,0
+770,Windows AD Account Mgmt,10/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+771,ALGE,6/1/2021,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+772,Google Calendar Creation,5/1/2020,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+773,NHO Prep Tasks,11/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+774,NHO Prep Tasks,5/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+775,SFDC Account Terminations,8/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+776,GSS Salesforce Account Create,5/1/2021,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+777,LDAP lookup module,11/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+778,IT Hire Check,3/1/2021,110.0,Emails IT S&E content to new IT hires,64.5,,Daily,22.0,IT Hire Check,5.0,0
+779,Mailing Lists,10/1/2021,3720.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,186.0,Mailing Lists,20.0,
+780,Google Calendar Creation,12/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+781,GSS Salesforce Account Create,3/1/2021,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+782,Google Alias,2/1/2021,268.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+783,sn_tableau_ldap,3/1/2020,0.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,0.0,sn_tableau_ldap,7.0,0
+784,RHEL 8 Deployment,2/1/2021,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+785,global_wifi,5/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+786,Windows AD Account Mgmt,8/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+787,SFDC Account Terminations,7/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+788,Mail Alias,4/1/2021,920.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,115.0,Mail Alias,8.0,
+789,GWS' Weekly Email Reminders,1/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+790,Tableau API Token Refresher,11/1/2021,35.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,5.0,Tableau API Token Refresher,7.0,3240
+791,GWS' Weekly Email Reminders,11/1/2021,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+792,LDAP lookup module,9/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+793,IT Hire Check,4/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+794,LDAP POSIX Group,4/1/2021,3696.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,308.0,LDAP POSIX Group,12.0,
+795,LDAP POSIX Group,2/1/2021,3204.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,267.0,LDAP POSIX Group,12.0,
+796,MPaaS+ Migration Support,10/1/2021,184.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+797,MPaaS+ General Support Request,8/1/2021,224.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+798,Windows AD Account Mgmt,12/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+799,Humanity Schedule Bot,5/1/2020,10.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,4.0,Humanity Schedule Bot,2.5,1440
+800,Humanity Schedule Bot,7/1/2021,120.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,48.0,Humanity Schedule Bot,2.5,1440
+801,Google Team Drive,9/1/2020,300.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,20.0,Google Team Drive,15.0,0
+802,Tableau LDAP,10/1/2021,7640.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,955.0,Tableau LDAP,8.0,0
+803,ggroupMembership,5/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+804,RingCentral User Deployment,4/1/2021,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+805,Email Alias Termination,8/1/2021,380.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+806,Bulk Email Alias Deletions,1/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+807,RingCentral User Termination,2/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+808,LDAP Service Group,11/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+809,Email Alias Termination,9/1/2021,512.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+810,MPaaS+ Migration Support,11/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+811,Pushmail Ticket Deflection,1/1/2021,49.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,7.0,Pushmail Ticket Deflection,7.0,0
+812,global_wifi,4/1/2020,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+813,Tableau API Token Refresher,7/1/2020,35.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,5.0,Tableau API Token Refresher,7.0,3240
+814,Autolist KB Daily Update,8/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+815,ServiceNow Lookup module,1/1/2020,144.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+816,LDAP POSIX Group,3/1/2021,3072.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,256.0,LDAP POSIX Group,12.0,
+817,DBA - Redshift Account Deployment,9/1/2020,135.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,18.0,DBA - Redshift Account Deployment,7.5,0
+818,Google Alias,10/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+819,sn_tableau_ldap,2/1/2020,0.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,0.0,sn_tableau_ldap,7.0,0
+820,IT Manager Check,2/1/2021,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+821,DBA - Redshift Account Deployment,8/1/2020,0.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,0.0,DBA - Redshift Account Deployment,7.5,0
+822,LDAP-Rover Syncs,12/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+823,Windows AD Account Mgmt,10/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+824,Rehire Associate Check,1/1/2021,228.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,19.0,Rehire Associate Check,12.0,1440
+825,GWS' Weekly Email Reminders,10/1/2020,76.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+826,Tableau ServiceGroups,10/1/2020,248.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,31.0,Tableau ServiceGroups,8.0,0
+827,DBA - Redshift Account Deployment,5/1/2020,0.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,0.0,DBA - Redshift Account Deployment,7.5,0
+828,Email Alias Termination,6/1/2021,296.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+829,sn_tableau_ldap,6/1/2020,0.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,0.0,sn_tableau_ldap,7.0,0
+830,Support Chat Notification Bot,5/1/2020,261.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,522.0,Support Chat Notification Bot,0.5,0
+831,Mail Alias,3/1/2020,1528.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,191.0,Mail Alias,8.0,
+832,Mail Alias,4/1/2020,1184.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,148.0,Mail Alias,8.0,
+833,LDAP POSIX Group,11/1/2021,4380.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,365.0,LDAP POSIX Group,12.0,
+834,Bulk Email Alias Deletions,6/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+835,RingCentral User Deployment,1/1/2021,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+836,IT Hire Check,7/1/2021,405.0,Emails IT S&E content to new IT hires,64.5,,Daily,81.0,IT Hire Check,5.0,0
+837,Rehire Associate Check,8/1/2021,48.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,4.0,Rehire Associate Check,12.0,1440
+838,Windows AD Account Mgmt,9/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+839,IT Hire Check,10/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+840,sn_tableau_ldap,12/1/2021,3507.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,501.0,sn_tableau_ldap,7.0,0
+841,Mail Alias,1/1/2021,840.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,105.0,Mail Alias,8.0,
+842,GSS Salesforce Account Create,11/1/2020,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+843,Windows AD Account Mgmt,5/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+844,LDAP Service Group,8/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+845,Tableau ServiceGroups,6/1/2021,1128.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,141.0,Tableau ServiceGroups,8.0,0
+846,Tableau ServiceGroups,3/1/2021,1368.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,171.0,Tableau ServiceGroups,8.0,0
+847,DBA - Redshift Account Deployment,3/1/2020,0.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,0.0,DBA - Redshift Account Deployment,7.5,0
+848,Mailing Lists,5/1/2021,3680.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,184.0,Mailing Lists,20.0,
+849,global_wifi,11/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+850,Humanity Schedule Bot,11/1/2021,15.0,"Google Hangouts Chat bot identifies on-shift support (who is the Queue Manager, CLT Agent on call...)",13.46,daily,daily,6.0,Humanity Schedule Bot,2.5,1440
+851,RingCentral User Deployment,3/1/2021,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+852,Email Alias Termination,2/1/2021,740.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+853,NHO Prep Tasks,3/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+854,Bulk Email Alias Deletions,6/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+855,NGDC Service Catalog Item,7/1/2021,100.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+856,Windows AD Account Mgmt,2/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+857,IT Hire Check,1/1/2021,185.0,Emails IT S&E content to new IT hires,64.5,,Daily,37.0,IT Hire Check,5.0,0
+858,Tableau API Token Refresher,12/1/2020,35.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,5.0,Tableau API Token Refresher,7.0,3240
+859,global_wifi,12/1/2020,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+860,Google Team Drive,11/1/2021,405.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,27.0,Google Team Drive,15.0,0
+861,LDAP Service Group,6/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+862,LDAP Service Group,5/1/2020,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+863,DBA - Redshift Account Deployment,3/1/2021,892.5,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,119.0,DBA - Redshift Account Deployment,7.5,0
+864,Windows AD Account Mgmt,3/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+865,IT Hire Check,9/1/2021,455.0,Emails IT S&E content to new IT hires,64.5,,Daily,91.0,IT Hire Check,5.0,0
+866,SFDC Account Terminations,8/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+867,ALGE,3/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+868,Tableau API Token Refresher,11/1/2020,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+869,LDAP lookup module,5/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+870,LDAP-Rover Syncs,8/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+871,Tableau LDAP,11/1/2020,5824.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,728.0,Tableau LDAP,8.0,0
+872,Rehire Associate Check,9/1/2020,108.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,9.0,Rehire Associate Check,12.0,1440
+873,Google Alias,4/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+874,Google Alias,3/1/2021,408.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+875,IT Manager Check,4/1/2021,20.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,4.0,IT Manager Check,5.0,0
+876,RHEL 8 Deployment,12/1/2020,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+877,Tableau ServiceGroups,3/1/2020,1112.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,139.0,Tableau ServiceGroups,8.0,0
+878,ServiceNow Lookup module,6/1/2020,90.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+879,DBA - Redshift Account Deployment,9/1/2021,1215.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,162.0,DBA - Redshift Account Deployment,7.5,0
+880,global_wifi,7/1/2020,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+881,ALGE,6/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+882,MPaaS+ Migration Support,11/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+883,Google Alias,6/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+884,IT Hire Check,4/1/2021,185.0,Emails IT S&E content to new IT hires,64.5,,Daily,37.0,IT Hire Check,5.0,0
+885,ALGE,3/1/2021,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+886,Tableau LDAP,4/1/2020,12040.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1505.0,Tableau LDAP,8.0,0
+887,Google Team Drive,1/1/2021,405.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,27.0,Google Team Drive,15.0,0
+888,Autolist KB Daily Update,3/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+889,Windows AD Account Mgmt,8/1/2021,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+890,IT Hire Check,10/1/2021,445.0,Emails IT S&E content to new IT hires,64.5,,Daily,89.0,IT Hire Check,5.0,0
+891,global_wifi,10/1/2021,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+892,Google Group Management,6/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+893,Email Alias Termination,9/1/2020,760.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+894,Google Team Drive,3/1/2020,480.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,32.0,Google Team Drive,15.0,0
+895,Support Chat Notification Bot,6/1/2021,180.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,361.0,Support Chat Notification Bot,0.5,0
+896,Support Chat Notification Bot,6/1/2020,419.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,838.0,Support Chat Notification Bot,0.5,0
+897,Google Alias,9/1/2021,376.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+898,IT Hire Check,9/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+899,ggroupMembership,10/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+900,ServiceNow Lookup module,2/1/2020,90.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+901,LDAP-Rover Syncs,3/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+902,DBA - Redshift Account Deployment,2/1/2020,0.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,0.0,DBA - Redshift Account Deployment,7.5,0
+903,Autolist KB Daily Update,1/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+904,Google Group Management,7/1/2021,0.0,Creation and modification of Google groups (used for associate accounts and mailing lists),WIP,TBD,,0.0,,0.0,
+905,Google Alias,5/1/2021,304.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+906,SFDC Account Terminations,10/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+907,ALGE,7/1/2020,0.0,Automated LDAP GES engineer group additions at onboard,6,,monthly,0.0,ALGE,30.0,
+908,Tableau ServiceGroups,5/1/2021,728.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,91.0,Tableau ServiceGroups,8.0,0
+909,GWS' Weekly Email Reminders,12/1/2020,0.0,sends scheduled email reminders for GWS (fridge cleanout and snack time),0,Monthly,Monthly,0.0,,0.0,
+910,LDAP lookup module,3/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+911,DBA - Redshift Account Deployment,5/1/2021,757.5,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,101.0,DBA - Redshift Account Deployment,7.5,0
+912,Mail Alias,9/1/2020,736.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,92.0,Mail Alias,8.0,
+913,Google Team Drive,3/1/2021,555.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,37.0,Google Team Drive,15.0,0
+914,ggroupMembership,6/1/2020,0.0,"App to assist GES engineers with an SME only task, querying Google Group membership",9.6,,monthly,0.0,ggroupmembership,0.0,
+915,Bulk Email Alias Deletions,5/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+916,SFDC Account Terminations,6/1/2020,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+917,Bulk Email Alias Deletions,1/1/2021,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+918,RingCentral User Termination,10/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+919,IT Hire Check,12/1/2020,0.0,Emails IT S&E content to new IT hires,64.5,,Daily,0.0,IT Hire Check,5.0,0
+920,GSS Salesforce Account Create,5/1/2020,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+921,IT Manager Check,7/1/2021,30.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,6.0,IT Manager Check,5.0,0
+922,Mail Alias,6/1/2020,632.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,79.0,Mail Alias,8.0,
+923,LDAP-Rover Syncs,4/1/2021,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+924,Autolist KB Daily Update,6/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+925,LDAP Service Group,8/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+926,Tableau LDAP,2/1/2021,5800.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,725.0,Tableau LDAP,8.0,0
+927,LDAP-Rover Syncs,1/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+928,RHEL 8 Deployment,2/1/2020,540.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+929,Support Chat Notification Bot,1/1/2021,156.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,313.0,Support Chat Notification Bot,0.5,0
+930,LDAP lookup module,5/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+931,Rehire Associate Check,9/1/2021,84.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,7.0,Rehire Associate Check,12.0,1440
+932,IT Hire Check,11/1/2021,570.0,Emails IT S&E content to new IT hires,64.5,,Daily,114.0,IT Hire Check,5.0,0
+933,Support Chat Notification Bot,10/1/2020,178.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,357.0,Support Chat Notification Bot,0.5,0
+934,Tableau API Token Refresher,4/1/2020,28.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,4.0,Tableau API Token Refresher,7.0,3240
+935,Email Alias Termination,1/1/2021,1204.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+936,GSS Salesforce Account Create,8/1/2020,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+937,Support Chat Notification Bot,7/1/2020,426.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,852.0,Support Chat Notification Bot,0.5,0
+938,Rehire Associate Check,5/1/2020,288.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,24.0,Rehire Associate Check,12.0,1440
+939,NGDC Service Catalog Item,8/1/2020,0.0,NextGen Data Center ServiceNow webform and workflow with RESTful API Ansible Tower call,13,,Daily,0.0,,0.0,
+940,LDAP Service Group,12/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+941,Email Alias Termination,7/1/2020,1404.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+942,IT Manager Check,12/1/2021,15.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,3.0,IT Manager Check,5.0,0
+943,Google Team Drive,9/1/2021,465.0,Scripted creation of Google Team Drive requests (trequested by ServiceNow webform submission),89.25,Monthly,Monthly,31.0,Google Team Drive,15.0,0
+944,LDAP-Rover Syncs,4/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+945,MPaaS+ General Support Request,9/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+946,RingCentral User Termination,11/1/2020,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+947,Windows AD Account Mgmt,5/1/2020,0.0,"Creates Windows AD account, and adds permissions",WIP,TBD,TBD,0.0,Windows AD Account Mgmt,0.0,0
+948,Support Chat Notification Bot,12/1/2021,115.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,230.0,Support Chat Notification Bot,0.5,0
+949,Mail Alias,12/1/2020,440.0,Automated provisioning of a mail alias (if available) as requested via ServiceNow webform,188.13,Monthly,Monthly,55.0,Mail Alias,8.0,
+950,LDAP-Rover Syncs,9/1/2020,0.0,"Syncs some IT LDAP groups to Rover. Prevents manual search, copy/paste across many groups",0,daily,,0.0,,0.0,
+951,Autolist KB Daily Update,4/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+952,Tableau ServiceGroups,4/1/2020,1144.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,143.0,Tableau ServiceGroups,8.0,0
+953,RingCentral User Termination,4/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+954,Mailing Lists,12/1/2020,2980.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,149.0,Mailing Lists,20.0,
+955,LDAP Service Group,3/1/2021,0.0,Deprecated form/workflow; See J19 - Tableau ServiceGroups values,0,Monthly,,0.0,,0.0,
+956,global_wifi,5/1/2020,0.0,"Script created to update global wifi password for all RH offices, every 6 months",0,Monthly,Monthly,0.0,global_wifi,10.0,0
+957,Tableau LDAP,5/1/2020,11048.0,Creates and permissions Tableau users upon request,1475,Monthly,Monthly,1381.0,Tableau LDAP,8.0,0
+958,NHO Prep Tasks,11/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+959,Pushmail Ticket Deflection,8/1/2020,56.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,8.0,Pushmail Ticket Deflection,7.0,0
+960,MPaaS+ General Support Request,10/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+961,Tableau ServiceGroups,10/1/2021,608.0,Applies LDAP servicegroup for BI Data Virt access (for IT-Operations' tickets),161.6,Monthly,Monthly,76.0,Tableau ServiceGroups,8.0,0
+962,Rehire Associate Check,2/1/2020,180.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,15.0,Rehire Associate Check,12.0,1440
+963,MPaaS+ Migration Support,1/1/2021,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+964,NHO Prep Tasks,7/1/2020,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+965,MPaaS+ Migration Support,4/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ migrations,6.27,,Monthly,0.0,,0.0,
+966,GSS Salesforce Account Create,7/1/2020,0.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,0.0,GSS Salesforce Account Create,25.0,0
+967,RingCentral User Deployment,2/1/2021,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+968,Google Calendar Creation,4/1/2021,0.0,Automation of approved Google Calendar requests via ServiceNow form,WIP,TBD,TBD,0.0,Google Calendar Creation,0.0,
+969,ServiceNow Lookup module,4/1/2020,60.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+970,sn_tableau_ldap,4/1/2020,0.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,0.0,sn_tableau_ldap,7.0,0
+971,Bulk Email Alias Deletions,8/1/2020,0.0,Bulk deletion of email aliases for managers with multiple departed reportees,WIP,TBD,TBD,0.0,Bulk Email Alias Deletions,0.0,
+972,Email Alias Termination,7/1/2021,216.0,"Terminates the email alias for departed users not in France, Italy, Germany, or Switzerland",146.33,Monthly,Monthly,0.0,,0.0,
+973,Rehire Associate Check,3/1/2020,264.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,22.0,Rehire Associate Check,12.0,1440
+974,Google Alias,2/1/2020,0.0,Creation of Google aliases (used for associate personal aliases),72.4,,monthly,0.0,,0.0,
+975,LDAP lookup module,1/1/2020,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+976,Support Chat Notification Bot,11/1/2021,158.5,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,317.0,Support Chat Notification Bot,0.5,0
+977,GSS Salesforce Account Create,7/1/2021,150.0,"Scripted Account creation for Salesforce accounts (only for GSS eligible cost centers, like CEE)",13.75,Daily,Daily,6.0,GSS Salesforce Account Create,25.0,0
+978,NHO Prep Tasks,4/1/2021,0.0,Expedites the preparation phase for GES NHO tasks,WIP,TBD,TBD,0.0,,0.0,
+979,Autolist KB Daily Update,1/1/2021,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+980,SFDC Account Terminations,9/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+981,Rehire Associate Check,10/1/2021,132.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,11.0,Rehire Associate Check,12.0,1440
+982,LDAP POSIX Group,9/1/2021,3768.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,314.0,LDAP POSIX Group,12.0,
+983,Mailing Lists,11/1/2021,3400.0,Automatically provisions a mailing list as requested via ServiceNow webform,783.67,Monthly,Monthly,170.0,Mailing Lists,20.0,
+984,ServiceNow Lookup module,12/1/2021,0.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+985,Pushmail Ticket Deflection,4/1/2021,63.0,deflection of non-actionable pushmail certificate requests submitted to IT Support triage,19.6,Monthly,Monthly,9.0,Pushmail Ticket Deflection,7.0,0
+986,Tableau API Token Refresher,1/1/2021,35.0,Refreshes Tableau API access token to prevent lockout,9.22,Monthly,Monthly,5.0,Tableau API Token Refresher,7.0,3240
+987,SFDC Account Terminations,2/1/2021,0.0,GSS SFDC account terminations for departed users,WIP,TBD,TBD,0.0,,0.0,
+988,Autolist KB Daily Update,10/1/2020,0.0,Updates the ServiceNow KnowledgeBase daily to populate a list of automated Mailing Lists,blocked,TBD,TBD,0.0,Autolist KB Daily Update,0.0,
+989,RingCentral User Termination,1/1/2021,0.0,Terminates office user in RingCentral telephony platform at associate departure,WIP,TBD,TBD,0.0,,0.0,
+990,IT Manager Check,9/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+991,LDAP POSIX Group,9/1/2020,2328.0,Provisions a POSIX LDAP account as requested via ServiceNow webform,814,Monthly,Monthly,194.0,LDAP POSIX Group,12.0,
+992,Rehire Associate Check,10/1/2020,60.0,Identifies re-hired associates; reactivates BlueJeans accounts to avoid manually reacting,28.8,daily,daily,5.0,Rehire Associate Check,12.0,1440
+993,RingCentral User Deployment,4/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+994,DBA - Redshift Account Deployment,11/1/2021,855.0,Automation of database account requests for the AWS Redshift Database,153,Monthly,Monthly,114.0,DBA - Redshift Account Deployment,7.5,0
+995,RingCentral User Deployment,12/1/2020,0.0,Deploys new office user to RingCentral telephony platform at associate on-boarding,17.5833,TBD,Monthly,0.0,RingCentral User Deployment,5.0,6660
+996,sn_tableau_ldap,9/1/2020,2583.0,Fully orchestrated Tableau LDAP requests,1080.8,Monthly,Monthly,369.0,sn_tableau_ldap,7.0,0
+997,LDAP lookup module,10/1/2021,0.0,Reusable code for automation toolbelt - adds ability to query LDAP source data.,0,Monthly,,0.0,,0.0,
+998,RHEL 8 Deployment,10/1/2020,0.0,Automated the deployment of RHEL 8 upgrades for all GES Engineers,49.5,Monthly,,0.0,,0.0,
+999,MPaaS+ General Support Request,1/1/2020,0.0,Citizen Developed ServiceNow form and workflow for MPaaS+ general support/issues,28,,Monthly,0.0,,0.0,
+1000,IT Manager Check,12/1/2020,0.0,Emails IT S&E content to new IT Manager hires,5.3,,Daily,0.0,IT Manager Check,5.0,0
+1001,ServiceNow Lookup module,12/1/2020,60.0,Ability to automatically pull Service-Now data and interact with Service-now tasks / processes.,16.6,Monthly,,0.0,,0.0,
+1002,Support Chat Notification Bot,5/1/2021,204.0,Notifies Support in Google Hangouts Chat that a Support Chat customer is waiting,32.33,Weekly,Weekly,408.0,Support Chat Notification Bot,0.5,0
